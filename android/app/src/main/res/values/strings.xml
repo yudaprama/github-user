@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="facebook_app_id">472769556574402</string>
+    <string name="fb_login_protocol_scheme">fb472769556574402</string>
+</resources>

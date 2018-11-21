@@ -1,0 +1,32 @@
+{
+  "name": "githubuser",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "ra": "adb shell am broadcast -a react.native.RELOAD",
+    "adb": "adb reverse tcp:8081 tcp:8081",
+    "clean": "rm -rf $TMPDIR/react-* && watchman watch-del-all && npm start -- --reset-cache",
+    "simulator": "open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app",
+    "ios": "yarn run simulator && yarn run start",
+    "bundle-ios": "react-native bundle --entry-file='index.js' --bundle-output='./ios/githubuser/main.jsbundle' --dev=false --platform='ios' --assets-dest='./ios'",
+    "bundle-android": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/",
+    "test": "jest"
+  },
+  "dependencies": {
+    "constants": "yudaprama/constants",
+    "keyextractor": "^1.0.0",
+    "react": "16.3.1",
+    "react-native": "0.55.4",
+    "uppercase-space": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "babel-preset-react-native": "4.0.1",
+    "jest": "23.6.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
