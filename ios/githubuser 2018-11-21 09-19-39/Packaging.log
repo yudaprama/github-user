@@ -1,0 +1,135 @@
+2018-11-21 02:19:33 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f982becc650; archive(resolved)='<IDEArchive: 0x7f9827ddeaf0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f982becc650; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f982d4338c0; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f982b6a8e80; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f982ccf3000; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f983af05870; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f982bd380d0; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f982b6a0370; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f982cc1cf30; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f982bbc1fc0; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f983cc7f5e0; teamID='FZR94U8ZFZ', teamName='Yuda Prama Djunaedi', teamType='Individual', username='yudhaprama@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f982bdd9a10; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='(null)'>
+	<IDEDistributionContext: 0x7f982d5d8aa0; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f98287ba950>', team='(null)'>
+	<IDEDistributionContext: 0x7f982b353d20; archive = '<IDEArchive: 0x7f9827ddeaf0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f982becc650>
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionCreateDestRootStep
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionCopyItemStep
+2018-11-21 02:19:33 +0000  Running /usr/bin/ditto '-V' '/Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/Products/Applications/githubuser.app' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root/Payload/githubuser.app'
+2018-11-21 02:19:33 +0000  >>> Copying /Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/Products/Applications/githubuser.app 
+2018-11-21 02:19:33 +0000  copying file ./_CodeSignature/CodeResources ... 
+2018-11-21 02:19:33 +0000  5011 bytes for ./_CodeSignature/CodeResources
+2018-11-21 02:19:33 +0000  copying file ./githubuser ... 
+2018-11-21 02:19:33 +0000  31693552 bytes for ./githubuser
+2018-11-21 02:19:33 +0000  copying file ./Base.lproj/LaunchScreen.nib ... 
+2548 bytes for ./Base.lproj/LaunchScreen.nib
+copying file ./main.jsbundle.meta ... 
+21 bytes for ./main.jsbundle.meta
+copying file ./main.jsbundle ... 
+640527 bytes for ./main.jsbundle
+copying file ./embedded.mobileprovision ... 
+11660 bytes for ./embedded.mobileprovision
+2018-11-21 02:19:33 +0000  copying file ./assets/src/assets/icoProfile@2x.png ... 
+1634 bytes for ./assets/src/assets/icoProfile@2x.png
+copying file ./assets/src/assets/icoProfile@3x.png ... 
+2817 bytes for ./assets/src/assets/icoProfile@3x.png
+copying file ./assets/src/assets/icoHome.png ... 
+2018-11-21 02:19:33 +0000  680 bytes for ./assets/src/assets/icoHome.png
+2018-11-21 02:19:33 +0000  copying file ./assets/src/assets/icoHome@3x.png ... 
+2018-11-21 02:19:33 +0000  1901 bytes for ./assets/src/assets/icoHome@3x.png
+2018-11-21 02:19:33 +0000  copying file ./assets/src/assets/icoHome@2x.png ... 
+2018-11-21 02:19:33 +0000  1340 bytes for ./assets/src/assets/icoHome@2x.png
+2018-11-21 02:19:33 +0000  copying file ./assets/src/assets/icoProfile.png ... 
+2018-11-21 02:19:33 +0000  772 bytes for ./assets/src/assets/icoProfile.png
+2018-11-21 02:19:33 +0000  copying file ./Info.plist ... 
+2018-11-21 02:19:33 +0000  1264 bytes for ./Info.plist
+2018-11-21 02:19:33 +0000  copying file ./PkgInfo ... 
+2018-11-21 02:19:33 +0000  8 bytes for ./PkgInfo
+2018-11-21 02:19:33 +0000  /usr/bin/ditto exited with 0
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionEmbedProfileStep
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionItemRemovalStep
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2018-11-21 02:19:33 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2018-11-21 02:19:33 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2018-11-21 02:19:33 +0000  Running /usr/bin/ditto '-V' '/Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/BCSymbolMaps/8F2EE03E-A394-3D01-BF8C-9EC1DCA69FBB.bcsymbolmap' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root/BCSymbolMaps/8F2EE03E-A394-3D01-BF8C-9EC1DCA69FBB.bcsymbolmap'
+2018-11-21 02:19:33 +0000  >>> Copying /Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/BCSymbolMaps/8F2EE03E-A394-3D01-BF8C-9EC1DCA69FBB.bcsymbolmap 
+2018-11-21 02:19:33 +0000  copying file ./8F2EE03E-A394-3D01-BF8C-9EC1DCA69FBB.bcsymbolmap ... 
+2018-11-21 02:19:33 +0000  788183 bytes for ./8F2EE03E-A394-3D01-BF8C-9EC1DCA69FBB.bcsymbolmap
+2018-11-21 02:19:33 +0000  /usr/bin/ditto exited with 0
+2018-11-21 02:19:33 +0000  Running /usr/bin/ditto '-V' '/Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/BCSymbolMaps/4F89BA1C-66F7-3F54-A15B-2B53C4EE88DE.bcsymbolmap' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root/BCSymbolMaps/4F89BA1C-66F7-3F54-A15B-2B53C4EE88DE.bcsymbolmap'
+2018-11-21 02:19:33 +0000  >>> Copying /Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/BCSymbolMaps/4F89BA1C-66F7-3F54-A15B-2B53C4EE88DE.bcsymbolmap 
+2018-11-21 02:19:33 +0000  copying file ./4F89BA1C-66F7-3F54-A15B-2B53C4EE88DE.bcsymbolmap ... 
+2018-11-21 02:19:33 +0000  793259 bytes for ./4F89BA1C-66F7-3F54-A15B-2B53C4EE88DE.bcsymbolmap
+2018-11-21 02:19:33 +0000  /usr/bin/ditto exited with 0
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionSymbolsStep
+2018-11-21 02:19:33 +0000  Excluding symbols for githubuser.app
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionAppThinningStep
+2018-11-21 02:19:33 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionArchThinningStep
+2018-11-21 02:19:33 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root/Payload/githubuser.app/githubuser' '-verify_arch' 'arm64e'
+2018-11-21 02:19:33 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2018-11-21 02:19:33 +0000  Skipping architecture thinning for item "githubuser" because arch "arm64e" wasn't found
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionODRStep
+2018-11-21 02:19:33 +0000  Processing step: IDEDistributionStripXattrsStep
+2018-11-21 02:19:33 +0000  Running /usr/bin/xattr '-crs' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root/Payload/githubuser.app'
+2018-11-21 02:19:34 +0000  /usr/bin/xattr exited with 0
+2018-11-21 02:19:34 +0000  Processing step: IDEDistributionCodesignStep
+2018-11-21 02:19:34 +0000  Entitlements for <IDEDistributionItem: 0x7f982bd3f570 'com.yudapramadjunaedi.githubuser' '<DVTFilePath:0x7f982b6c15d0:'/Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/Products/Applications/githubuser.app'>'>: {
+    "application-identifier" = "FZR94U8ZFZ.com.yudapramadjunaedi.githubuser";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = FZR94U8ZFZ;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "FZR94U8ZFZ.com.yudapramadjunaedi.githubuser"
+    );
+}
+2018-11-21 02:19:34 +0000  Writing entitlements for <IDEDistributionItem: 0x7f982bd3f570 'com.yudapramadjunaedi.githubuser' '<DVTFilePath:0x7f982b6c15d0:'/Users/yuda/Library/Developer/Xcode/Archives/2018-11-21/githubuser 21-11-18, 9.16 AM.xcarchive/Products/Applications/githubuser.app'>'> to: /var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/entitlementsqIkwki
+2018-11-21 02:19:34 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'B2952A3EC9B8938A2D7ECE264CBC205B4C79B00C' '--entitlements' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/entitlementsqIkwki' '--preserve-metadata=identifier,flags,runtime' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root/Payload/githubuser.app'
+2018-11-21 02:19:34 +0000  /var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root/Payload/githubuser.app: signed app bundle with Mach-O universal (armv7 arm64) [com.yudapramadjunaedi.githubuser]
+2018-11-21 02:19:34 +0000  /usr/bin/codesign exited with 0
+2018-11-21 02:19:34 +0000  Processing step: IDEDistributionZipODRItemStep
+2018-11-21 02:19:34 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2018-11-21 02:19:34 +0000  Processing step: IDEDistributionCreateIPAStep
+2018-11-21 02:19:34 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root' '/var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Packages/githubuser.ipa'
+2018-11-21 02:19:34 +0000  >>> Copying /var/folders/tw/s8v56n01671ddrkbyzp2g20c0000gn/T/XcodeDistPipeline.aDW/Root 
+2018-11-21 02:19:34 +0000  copying file ./BCSymbolMaps/8F2EE03E-A394-3D01-BF8C-9EC1DCA69FBB.bcsymbolmap ... 
+2018-11-21 02:19:34 +0000  788183 bytes for ./BCSymbolMaps/8F2EE03E-A394-3D01-BF8C-9EC1DCA69FBB.bcsymbolmap
+copying file ./BCSymbolMaps/4F89BA1C-66F7-3F54-A15B-2B53C4EE88DE.bcsymbolmap ... 
+2018-11-21 02:19:34 +0000  793259 bytes for ./BCSymbolMaps/4F89BA1C-66F7-3F54-A15B-2B53C4EE88DE.bcsymbolmap
+2018-11-21 02:19:34 +0000  copying file ./Payload/githubuser.app/_CodeSignature/CodeResources ... 
+2018-11-21 02:19:34 +0000  5011 bytes for ./Payload/githubuser.app/_CodeSignature/CodeResources
+2018-11-21 02:19:34 +0000  copying file ./Payload/githubuser.app/githubuser ... 
+2018-11-21 02:19:35 +0000  27780816 bytes for ./Payload/githubuser.app/githubuser
+2018-11-21 02:19:35 +0000  copying file ./Payload/githubuser.app/Base.lproj/LaunchScreen.nib ... 
+2018-11-21 02:19:35 +0000  2548 bytes for ./Payload/githubuser.app/Base.lproj/LaunchScreen.nib
+copying file ./Payload/githubuser.app/main.jsbundle.meta ... 
+2018-11-21 02:19:35 +0000  21 bytes for ./Payload/githubuser.app/main.jsbundle.meta
+copying file ./Payload/githubuser.app/main.jsbundle ... 
+2018-11-21 02:19:35 +0000  640527 bytes for ./Payload/githubuser.app/main.jsbundle
+copying file ./Payload/githubuser.app/embedded.mobileprovision ... 
+2018-11-21 02:19:35 +0000  7520 bytes for ./Payload/githubuser.app/embedded.mobileprovision
+2018-11-21 02:19:35 +0000  copying file ./Payload/githubuser.app/assets/src/assets/icoProfile@2x.png ... 
+2018-11-21 02:19:35 +0000  1634 bytes for ./Payload/githubuser.app/assets/src/assets/icoProfile@2x.png
+2018-11-21 02:19:35 +0000  copying file ./Payload/githubuser.app/assets/src/assets/icoProfile@3x.png ... 
+2018-11-21 02:19:35 +0000  2817 bytes for ./Payload/githubuser.app/assets/src/assets/icoProfile@3x.png
+2018-11-21 02:19:35 +0000  copying file ./Payload/githubuser.app/assets/src/assets/icoHome.png ... 
+2018-11-21 02:19:35 +0000  680 bytes for ./Payload/githubuser.app/assets/src/assets/icoHome.png
+copying file ./Payload/githubuser.app/assets/src/assets/icoHome@3x.png ... 
+2018-11-21 02:19:35 +0000  1901 bytes for ./Payload/githubuser.app/assets/src/assets/icoHome@3x.png
+2018-11-21 02:19:35 +0000  copying file ./Payload/githubuser.app/assets/src/assets/icoHome@2x.png ... 
+2018-11-21 02:19:35 +0000  1340 bytes for ./Payload/githubuser.app/assets/src/assets/icoHome@2x.png
+copying file ./Payload/githubuser.app/assets/src/assets/icoProfile.png ... 
+2018-11-21 02:19:35 +0000  772 bytes for ./Payload/githubuser.app/assets/src/assets/icoProfile.png
+2018-11-21 02:19:35 +0000  copying file ./Payload/githubuser.app/Info.plist ... 
+2018-11-21 02:19:35 +0000  1264 bytes for ./Payload/githubuser.app/Info.plist
+copying file ./Payload/githubuser.app/PkgInfo ... 
+2018-11-21 02:19:35 +0000  8 bytes for ./Payload/githubuser.app/PkgInfo
+2018-11-21 02:19:35 +0000  /usr/bin/ditto exited with 0
+2018-11-21 02:19:35 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2018-11-21 02:19:35 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2018-11-21 02:19:35 +0000  Processing step: IDEDistributionCreateManifestStep
+2018-11-21 02:19:35 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
