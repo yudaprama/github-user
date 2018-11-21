@@ -7,3 +7,8 @@ Download IPA iOS: https://github.com/yudaprama/github-user/raw/master/ios/github
 Video preview Android: https://youtu.be/V7qPD3TPz-Y  
 
 Video preview iOS:  https://youtu.be/B2jprby3-KU
+
+Screenshots:
+![Screenshot1](https://github.com/yudaprama/github-user/raw/master/screenshots/Screenshot_1542763584.png)
+![Screenshot2](https://github.com/yudaprama/github-user/raw/master/screenshots/Screenshot_1542763608.png)
+![Screenshot3](https://github.com/yudaprama/github-user/raw/master/screenshots/Screenshot_1542763614.png)
